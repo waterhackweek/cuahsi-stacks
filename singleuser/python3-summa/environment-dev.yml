@@ -1,0 +1,30 @@
+name summa-dev
+channels
+  - conda-forge
+dependencies
+  - bokeh=1.4.0
+  - cartopy=0.17.0
+  - distributed=2.1.0
+  - fiona=1.8.6
+  - gdal=2.4.4
+  - geopandas=0.5.1
+  - hs_restclient=1.3.5
+  - ipyleaflet=0.11.1
+  - jupyter_client=5.3.1
+  - jupyter_core=4.4.0
+  - jupyterhub=1.0.0
+  - jupyterlab=0.35.4
+  - jupyterlab_server=0.2.0
+  - jupyterthemes=0.20.0
+  - matplotlib=3.1.0
+  - netcdf4=1.5.3
+  - numpy=1.16.4
+  - pandas=0.24.2
+  - pip=20.0.2
+  - python=3.7.6
+  - scipy=1.4.1
+  - seaborn=0.9.0
+  - shapely=1.7.0
+  - xarray=0.12.3
+  - metsim=2.2.1
+  - hstools==0.0.2
